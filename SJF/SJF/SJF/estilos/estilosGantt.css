@@ -1,0 +1,25 @@
+.axis path,.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.bar {
+	fill: #40b254;
+}
+
+.bar-failed {
+	fill: #747474;
+}
+
+.bar-running {
+	fill: #b83b3b;
+}
+
+.bar-succeeded {
+	fill: #40b254;
+}
+
+.bar-killed {
+	fill: #F2D516;
+}
